@@ -1,9 +1,0 @@
-Introduction:
-The goal of this project was to determine which neighborhood was best for the average walking enthusiast. An ideal walker's neighborhood would feature many crosswalks,
-a high walkability ratio, and a low rate of crime. In terms of crosswalks, the metric really is as simple as that. It's just about the number of crosswalks that appear
-in each neighborhood. The more crosswalks there are, the safer it will be to cross the street, as there will be more opportunities to have safe and guided crossings.
-For the ratio of walkability, this was calculated by comparing the number of sidewalks in a neighborhood to the number of streets and roads that appear. The more 
-sidewalks there are along each road, the safer walking will be, as pedestrians will not have to walk on the street. For the rate of crime, we analyzed the number of
-crimes that appear in each neighborhood and whether each crime is considered severe or not. For example, littering or graffiti will be far less dangerous for a 
-pedestrian than a violent crime of some sort. The results of each metric are compiled by adding together the crosswalks and walkability ratios and then subtracting
-the number of crimes. The greatest value then represents the best neighborhood for the average pedestrian.
